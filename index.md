@@ -1,32 +1,14 @@
-## Welcome to GitHub Pages
+## Essex Management Skills
 
-You can use the [editor on GitHub](https://github.com/essexmgmt/skills/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills Analysis
+[Skills NLP Analysis](https://raw.githubusercontent.com/essexmgmt/skills/master/analysis.md)
 
-### Markdown
+### Skills Entity Cloud
+![Skills Entity Cloud](https://raw.githubusercontent.com/essexmgmt/skills/master/entity_cloud.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skills Data
+Skills data to generate this analysis is stored locally and not provided in this public repository.
 
 ### Jekyll Themes
 
@@ -34,4 +16,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Need to get in touch? Check out our website ![Essex Management](essexmanagement.com) or [contact](anna.lu@essexmanagement.com) and we’ll help you sort it out.

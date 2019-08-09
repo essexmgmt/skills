@@ -157,4 +157,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Need to get in touch? Check out our website ![Essex Management](essexmanagement.com) or [contact](anna.lu@essexmanagement.com) and we’ll help you sort it out.
+Need to get in touch? Check out our website ![https://www.essexmanagement.com](https://www.essexmanagement.com) or [contact anna.lu@essexmanagement.com](anna.lu@essexmanagement.com) and we’ll help you sort it out.

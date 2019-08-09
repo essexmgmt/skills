@@ -1,0 +1,6 @@
+pandas
+xlsxwriter
+xlrd
+seaborn
+nltk
+spacy
